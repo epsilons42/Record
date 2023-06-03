@@ -1,5 +1,5 @@
 # Record
-# İzlenilen dizi ve filmleri, gezilen şehirleri kaydetmek için.
+# İzlenilen dizi ve filmleri ve gezilen şehirleri kaydetmek için uygulama
 
 ![splash](https://github.com/epsilons42/Record/assets/120338137/8c2f8f82-3c68-4806-97e2-6ef02299eb8d)
 
